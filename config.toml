@@ -1,0 +1,29 @@
+baseUrl = "https://pcb.fun"
+title = "pcb.fun blog"
+author = "Chris Miller"
+canonifyurls = true
+theme = "pcb-fun-theme-distillpub"
+
+[params]
+  description = "Distill Hugo Theme Demo"
+  keywords = ["hugo", "distill", "theme"]
+  sourcePrefix = "https://github.com/activatedgeek/distillpub/blob/master/exampleSite"
+
+  color = "#0f2e3d"
+
+  [[params.social]]
+  class = "fab fa-github"
+  url = "https://github.com/signalskew"
+
+  [[params.social]]
+  class = "fab fa-twitter"
+  url = "https://twitter.com/signalskew"
+
+[menu]
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About Hugo"
+  title = "about"
+  url = "/about"
+  weight = -10
