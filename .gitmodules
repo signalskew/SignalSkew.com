@@ -1,0 +1,3 @@
+[submodule "themes/pcb-fun-theme-distillpub"]
+	path = themes/pcb-fun-theme-distillpub
+	url = https://github.com/signalskew/pcb-fun-theme-distillpub.git
