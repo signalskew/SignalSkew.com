@@ -1,5 +1,5 @@
 baseUrl = "https://pcb.fun"
-title = "pcb.fun blog"
+title = "pcb.fun"
 author = "Chris Miller"
 canonifyurls = true
 theme = "pcb-fun-theme-distillpub"
