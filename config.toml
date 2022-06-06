@@ -1,15 +1,26 @@
 baseUrl = "https://pcb.fun"
-title = "pcb.fun"
+title = "SignalSkew"
 author = "Chris Miller"
 canonifyurls = true
 theme = "pcb-fun-theme-distillpub"
 
+
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'
+
+
 [params]
-  description = "Distill Hugo Theme Demo"
-  keywords = ["hugo", "distill", "theme"]
-  sourcePrefix = "https://github.com/activatedgeek/distillpub/blob/master/exampleSite"
+  description = "pcb.fun blog"
+  keywords = ["electronics", "pcbs", "design"]
+  sourcePrefix = "https://github.com/signalskew/pcb-fun"
 
   color = "#0f2e3d"
+  custom_css = ["css/custom.css"]
+  dark_mode_css = ["css/darkmode.css"]
+  #custom_js = ["js/custom.js"]
+  dark_mode_js = ["js/darkmode.js"]
 
   [[params.social]]
   class = "fab fa-github"
@@ -23,7 +34,8 @@ theme = "pcb-fun-theme-distillpub"
 
   [[menu.main]]
   identifier = "about"
-  name = "About Hugo"
+  name = "About"
   title = "about"
   url = "/about"
   weight = -10
+
