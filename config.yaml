@@ -1,8 +1,9 @@
 baseUrl: 'https://signalskew.com'
-title: SignalSkew
+title: SignalSkew - Chris Miller's blog
 author: Chris Miller
-canonifyurls: true
 theme: signalskew.com-theme-distillpub
+canonifyurls: true
+enableInlineShortcodes: true
 taxonomies:
   category: categories
   series: series
@@ -15,12 +16,6 @@ params:
     - design
   sourcePrefix: 'https://github.com/signalskew/signalskew.com'
   color: '#0f2e3d'
-  custom_css:
-    - css/custom.css
-  dark_mode_css:
-    - css/darkmode.css
-  dark_mode_js:
-    - js/darkmode.js
   social:
     - class: fab fa-github
       url: 'https://github.com/signalskew'
