@@ -25,6 +25,6 @@ menu:
   main:
     - identifier: about
       name: About
-      title: about
+      title: About
       url: /about
       weight: -10
