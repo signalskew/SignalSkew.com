@@ -29,3 +29,13 @@ menu:
       title: About
       url: /about
       weight: -10
+    - identifier: option1
+      name: Option 1
+      title: Option 1
+      url: /opt1
+      weight: -10
+    - identifier: option2
+      name: Option 2
+      title: Option 2
+      url: /opt2
+      weight: -10
