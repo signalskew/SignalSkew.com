@@ -39,3 +39,13 @@ menu:
       title: Option 2
       url: /opt2
       weight: -10
+    - identifier: option3
+      name: Option 3
+      title: Option 3
+      url: /opt3
+      weight: -10
+    - identifier: option4
+      name: Option 4
+      title: Option 4
+      url: /opt4
+      weight: -10
