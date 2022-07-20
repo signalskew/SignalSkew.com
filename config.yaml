@@ -11,12 +11,14 @@ taxonomies:
 params:
   #logo: /images/signalskew_logo.svg
   description: SignalSkew blog
+  color: '#0f2e3d'
   keywords:
     - electronics
     - pcbs
     - design
+    - CNC
+    - embedded
   sourcePrefix: 'https://github.com/signalskew/signalskew.com'
-  color: '#0f2e3d'
   social:
     - class: fab fa-github
       url: 'https://github.com/signalskew'
@@ -29,23 +31,8 @@ menu:
       title: About
       url: /about
       weight: -10
-    - identifier: option1
-      name: Option 1
-      title: Option 1
-      url: /opt1
-      weight: -10
-    - identifier: option2
-      name: Option 2
-      title: Option 2
-      url: /opt2
-      weight: -10
-    - identifier: option3
-      name: Option 3
-      title: Option 3
-      url: /opt3
-      weight: -10
-    - identifier: option4
-      name: Option 4
-      title: Option 4
-      url: /opt4
-      weight: -10
+    - identifier: projects
+      name: Projects
+      title: Projects
+      url: /proj
+      weight: -8
