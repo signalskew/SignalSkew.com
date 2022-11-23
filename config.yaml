@@ -20,10 +20,12 @@ params:
     - embedded
   sourcePrefix: 'https://github.com/signalskew/signalskew.com'
   social:
-    - class: fab fa-github
-      url: 'https://github.com/signalskew'
+    - class: fab fa-mastodon
+      url: 'https://leds.social/@signalskew'
     - class: fab fa-twitter
       url: 'https://twitter.com/signalskew'
+    - class: fab fa-github
+      url: 'https://github.com/signalskew'
 menu:
   main:
     - identifier: about
