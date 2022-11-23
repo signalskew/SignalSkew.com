@@ -1,7 +1,7 @@
 baseUrl: 'https://signalskew.com'
 title: SignalSkew
 author: Chris Miller
-theme: signalskew.com-theme-distillpub
+theme: signalskew-theme
 canonifyurls: true
 enableInlineShortcodes: true
 taxonomies:
