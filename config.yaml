@@ -22,10 +22,13 @@ params:
   social:
     - class: fab fa-mastodon
       url: 'https://leds.social/@signalskew'
+      alt: 'Connect on Mastodon'
     - class: fab fa-twitter
       url: 'https://twitter.com/signalskew'
+      alt: 'Connect on Twitter'
     - class: fab fa-github
       url: 'https://github.com/signalskew'
+      alt: 'My GitHub profile'
 menu:
   main:
     - identifier: about
