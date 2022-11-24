@@ -11,7 +11,8 @@ taxonomies:
 params:
   #logo: /images/signalskew_logo.svg
   description: SignalSkew blog
-  color: '#0f2e3d'
+  theme_color: '#0f2e3d'
+  header_metadata: '<a style="display: none;" rel="me" href="https://leds.social/@signalskew">Mastodon verification</a>'
   keywords:
     - electronics
     - pcbs
