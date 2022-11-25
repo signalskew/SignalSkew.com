@@ -12,6 +12,7 @@ params:
   #logo: /images/signalskew_logo.svg
   description: SignalSkew blog
   theme_color: '#0f2e3d'
+  dark_mode_feature: true
   #header_metadata: 'Put e.g. Mastodon verification link here (may be deleted after verification)'
   keywords:
     - electronics
