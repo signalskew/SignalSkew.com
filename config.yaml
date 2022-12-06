@@ -14,14 +14,6 @@ params:
   theme_color: '#0f2e3d'
   dark_mode_feature: true
   #header_metadata: 'Put e.g. Mastodon verification link here (may be deleted after verification)'
-  header_metadata: '<!-- This favicon was generated using the following graphics from Twitter Twemoji:
-- Graphics Title: 1f6e0.svg 
-- Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji) 
-- Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/1f6e0.svg 
-- Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/) -->
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"> 
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"> 
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">'
   social_in_menu: false
   rss_in_menu: true
 
