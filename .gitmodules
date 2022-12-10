@@ -1,6 +1,3 @@
-[submodule "themes/signalskew.com-theme-distillpub"]
-	path = themes/signalskew.com-theme-distillpub
-	url = https://github.com/signalskew/signalskew.com-theme-distillpub.git
 [submodule "themes/signalskew-theme"]
 	path = themes/signalskew-theme
 	url = git@github.com:signalskew/signalskew-theme.git
