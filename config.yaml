@@ -13,16 +13,19 @@ params:
   description: SignalSkew blog
   theme_color: '#0f2e3d'
   dark_mode_feature: true
-  #header_metadata: 'Put e.g. Mastodon verification link here (may be deleted after verification)'
   social_in_menu: false
   rss_in_menu: true
 
   keywords:
+    - embedded systems
     - electronics
-    - pcbs
-    - design
+    - FOSS
+    - Linux
+    - KiCad
+    - FreeCAD
+    - Firmware
+    - PCBs
     - CNC
-    - embedded
   sourcePrefix: 'https://github.com/signalskew/signalskew.com'
   social:
     - class: fab fa-mastodon
