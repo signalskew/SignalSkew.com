@@ -1,3 +1,3 @@
 [submodule "themes/signalskew-theme"]
 	path = themes/signalskew-theme
-	url = git@github.com:signalskew/signalskew-theme.git
+	url = https://github.com/signalskew/signalskew-theme.git
