@@ -1,7 +1,6 @@
 +++
 title = "Hmm. :expressionless:"
 description = "404: Page Not Found"
-thumbnail = "https://i.ytimg.com/vi/qtIqKaDlqXo/maxresdefault.jpg"
 url = "404.html"
 listrender = false
 disableByline = true
