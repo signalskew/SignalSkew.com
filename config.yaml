@@ -26,6 +26,7 @@ params:
     - Firmware
     - PCBs
     - CNC
+    - DIY
   sourcePrefix: 'https://github.com/signalskew/signalskew.com'
   social:
     - class: fab fa-mastodon
@@ -47,3 +48,9 @@ menu:
       title: About
       url: /about
       weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
